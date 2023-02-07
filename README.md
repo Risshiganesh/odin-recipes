@@ -4,7 +4,7 @@ Odin Recipe Website
 Current Project:
 Recipe Website
 
-What I expect will have learned/implemented:
+What I expect to have learned/implemented:
 1. create a homepage
 2. create a header
 3. add subheaders

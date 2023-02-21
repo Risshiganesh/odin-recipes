@@ -1,0 +1,50 @@
+.center {
+    text-align: center;
+}
+
+.img-center {
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 35%;
+
+}
+
+.link-center {
+    text-align: center;
+    display: block;
+}
+
+.bg {
+    background-color: rgb(140, 52, 86);
+}
+
+h1 {
+    color: orange;
+    font-family: Helvetica, sans-serif;
+}
+
+/* unvisited link */
+a:link {
+    color: yellow;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: orange;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: pink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: palevioletred;
+  }
+
+  .nobull {
+    list-style-type: none;
+  }
